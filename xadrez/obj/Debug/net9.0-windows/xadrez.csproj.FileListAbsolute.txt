@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\bin\Debug\net9.0-windows\xadrez.exe
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\bin\Debug\net9.0-windows\xadrez.deps.json
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\bin\Debug\net9.0-windows\xadrez.runtimeconfig.json
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\bin\Debug\net9.0-windows\xadrez.dll
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\bin\Debug\net9.0-windows\xadrez.pdb
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.dll
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\refint\xadrez.dll
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.pdb
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\xadrez.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Imagens\Área de Trabalho\xadrez\obj\Debug\net9.0-windows\ref\xadrez.dll
